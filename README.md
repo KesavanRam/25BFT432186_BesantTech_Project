@@ -10,4 +10,3 @@ A simple Python program to create, read, append, rename, delete and list files o
    python FileHandling.py
 
 4. Follow the menu to choose an action.
-5. 
